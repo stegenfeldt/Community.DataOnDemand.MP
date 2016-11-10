@@ -101,6 +101,7 @@
   <ItemGroup>
     <EmbeddedResource Include="Scripts\Get-DnsClientCache.ps1" />
     <EmbeddedResource Include="Scripts\Get-EventLogs.ps1" />
+    <EmbeddedResource Include="Scripts\Get-LogicalDiskInfo.ps1" />
     <EmbeddedResource Include="Scripts\Get-Netstat.ps1" />
     <EmbeddedResource Include="Scripts\Get-Processes.ps1" />
     <EmbeddedResource Include="Scripts\Get-Services.ps1" />
